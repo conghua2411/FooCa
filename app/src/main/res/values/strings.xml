@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FooCa</string>
+
+    <string name="picture">Picture</string>
+    <string name="description_info">Info</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="intro_message">intro_message</string>
+
+    <string name="text_search_result">text search : %s\n%s</string>
+</resources>
